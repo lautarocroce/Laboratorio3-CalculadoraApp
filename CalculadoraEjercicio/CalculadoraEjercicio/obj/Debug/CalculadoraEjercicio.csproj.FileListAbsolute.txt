@@ -1,0 +1,7 @@
+E:\Dokumentoj\UTN\Tercer Semestre\Laboratoria3\SegundoParcial\CalculadoraEjercicio\CalculadoraEjercicio\CalculadoraEjercicio\obj\Debug\CalculadoraEjercicio.csproj.AssemblyReference.cache
+E:\Dokumentoj\UTN\Tercer Semestre\Laboratoria3\SegundoParcial\CalculadoraEjercicio\CalculadoraEjercicio\CalculadoraEjercicio\obj\Debug\CalculadoraEjercicio.csproj.CoreCompileInputs.cache
+E:\Dokumentoj\UTN\Tercer Semestre\Laboratoria3\SegundoParcial\CalculadoraEjercicio\CalculadoraEjercicio\CalculadoraEjercicio\bin\Debug\CalculadoraEjercicio.exe.config
+E:\Dokumentoj\UTN\Tercer Semestre\Laboratoria3\SegundoParcial\CalculadoraEjercicio\CalculadoraEjercicio\CalculadoraEjercicio\bin\Debug\CalculadoraEjercicio.exe
+E:\Dokumentoj\UTN\Tercer Semestre\Laboratoria3\SegundoParcial\CalculadoraEjercicio\CalculadoraEjercicio\CalculadoraEjercicio\bin\Debug\CalculadoraEjercicio.pdb
+E:\Dokumentoj\UTN\Tercer Semestre\Laboratoria3\SegundoParcial\CalculadoraEjercicio\CalculadoraEjercicio\CalculadoraEjercicio\obj\Debug\CalculadoraEjercicio.exe
+E:\Dokumentoj\UTN\Tercer Semestre\Laboratoria3\SegundoParcial\CalculadoraEjercicio\CalculadoraEjercicio\CalculadoraEjercicio\obj\Debug\CalculadoraEjercicio.pdb
